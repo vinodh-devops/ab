@@ -6,6 +6,5 @@ now i have re committinmg these db configs
 Db ip is localhost
 
 
-Now I have created a development branch
-
+Now I have created a development branch for developeres
 
